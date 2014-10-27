@@ -29,6 +29,7 @@ module.exports = {
 			]
 		},
 		css: [
+			'public/css/*.css',
 			'public/modules/**/css/*.css'
 		],
 		js: [
